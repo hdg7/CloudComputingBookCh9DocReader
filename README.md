@@ -1,3 +1,9 @@
+# Chapter 9 Ollama DocReader
+
+This repository contains the DocReader example using Ollama mentioned in **Chapter 9** of the book:
+
+[**Cloud Computing for Artificial Intelligence: Concepts, Methods, and Practical Tools**](https://amzn.eu/d/02lMPIKf)
+
 # docReader
 
 A Retrieval-Augmented Generation (RAG) system using **LangChain** and **ChromaDB** to read and process online PDFs. The system integrates with **Ollama** for running LLaMA-based models and is containerized with Docker for easy deployment.
